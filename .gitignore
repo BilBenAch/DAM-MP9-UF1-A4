@@ -24,7 +24,7 @@
 hs_err_pid*
 
 .idea/sonarlint/issuestore/8/
-
 /out/
 .M9_Activitat4.iml
 .idea
+.gitignore
