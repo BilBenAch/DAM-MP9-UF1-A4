@@ -1,0 +1,19 @@
+
+G
+java:S1481@"*Remove this unused "clave" local variable.(ö´ı8òÆÛÔß.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(»‡Ç÷8úµ¿Óß.
+E
+java:S5542>"#Use secure mode and padding scheme.(Ü øùÿÿÿÿ8îÚÉÔß.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(óßƒØıÿÿÿÿ8îÚÉÔß.
+[
+java:S4719""9Replace charset name argument with StandardCharsets.UTF_8(‡Ê‘¡ùÿÿÿÿ8ù©¸Óß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­¼‰şøÿÿÿÿ8ÆŒ¶Óß.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(é“Ÿˆüÿÿÿÿ8áëİÔß.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ãÖŞ8îÚÉÔß.
+E
+java:S55422"#Use secure mode and padding scheme.(Ü øùÿÿÿÿ8¢Ê¿Óß.
+V
+java:S1854@"9Remove this useless assignment to local variable "clave".(ö´ı8òÆÛÔß.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ï‹¤ÿÿÿÿÿÿ8ù©¸Óß.
+W
+java:S1118	":Add a private constructor to hide the implicit public one.(¯Ø‹8…Á¾Óß.
